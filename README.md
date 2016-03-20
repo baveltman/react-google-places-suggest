@@ -1,6 +1,6 @@
 # react-google-places-suggest ![npm](https://img.shields.io/npm/v/react-google-places-suggest.svg) ![license](https://img.shields.io/npm/l/react-google-places-suggest.svg)
 
-React component to select geolocated suggestion from Google Maps Places API
+Junko React component to select geolocated suggestion from Google Maps Places API
 
 ![react-google-places-suggest example](/screenshots/react-google-places-suggest-exemple.png)
 
