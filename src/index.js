@@ -90,6 +90,7 @@ export default class GeoSuggest extends Component {
     geocoder.geocode({ address: suggestLabel }, (results, status) => {
       if (status === googleMaps.GeocoderStatus.OK) {
         const location = results[0].geometry.location
+        debugger;
         const coordinate = {
           latitude: location.lat(),
           longitude: location.lng(),
